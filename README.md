@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🔥, I'm Dhruv Varshney</h1>
-<h3 align="center">Software Developer | Full Stack Enthusiast 🚀</h3>
+<h3 align="center">Software Developer 🚀</h3>
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Beyond+CRUD;Scaling+with+Systems+Knowledge;Passionate+About+Tech!;Always+Learning+New+Things&color=000000&background=FFFFFF">
