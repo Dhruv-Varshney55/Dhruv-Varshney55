@@ -58,6 +58,9 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Varshney55&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </p>
 
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Varshney55&layout=compact&theme=dark&hide_border=true)
+
 ---
 
 ### 🚀 **Fun Fact**
