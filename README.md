@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer 🚀</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Beyond+CRUD;Scaling+with+Systems+Knowledge;Passionate+About+Tech!;Always+Learning+New+Things&color=343A40&background=FFFFFF">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;Beyond+CRUD;Scaling+with+Systems+Knowledge;Passionate+About+Tech!;Always+Learning+New+Things&color=0078D4&background=FFFFFF">
 </p>
 
 ---
@@ -61,4 +61,4 @@
 ---
 
 ### 🚀 **Fun Fact**
-💡 **Sometimes, even ChatGPT asks me for debugging help!😆💻**  
+💡 **Sometimes, even ChatGPT asks me for debugging help! 😆💻**  
