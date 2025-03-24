@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full Stack Enthusiast 🚀</h3>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Beyond+CRUD;Scaling+with+Systems+Knowledge;Passionate+About+Tech!;Always+Learning+New+Things">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Beyond+CRUD;Scaling+with+Systems+Knowledge;Passionate+About+Tech!;Always+Learning+New+Things&color=000000&background=FFFFFF">
 </p>
 
 ---
@@ -34,7 +34,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
